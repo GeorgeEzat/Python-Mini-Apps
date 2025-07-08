@@ -8,9 +8,10 @@ Each project is self-contained in its own directory.
 
 |**Project**|**Description**|**Key Concepts Demonstrated**|
 |---|---|---|
-|📂 [**Hundred Game**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Hundred%20Game "null")|A two-player CLI game to reach the sum of 100 first.|Functions, Loops, Conditionals, User Input|
+|📂 [**Hundred Game**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Hundred%20Game "null")|A two-player game to reach the sum of 100 first.|Functions, Loops, Conditionals, User Input|
 |📂 [**Strong Password Generator**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Strong%20Password%20Generator "null")|A utility to generate a secure, random password of a given length.|`random` & `string` modules, Input Validation|
 |📂 [**Factors Calculator**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Factors%20Calculator "null")|A simple tool that calculates all the factors for any given integer.|List Comprehensions, Math Logic|
+|📂 [**Number Scrabble**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Number%20Scrabble "null")|A two-player game where players pick numbers to reach a winning combination.|Sets, Game Logic, User Input|
 
 ## Setup & Installation
 
