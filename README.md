@@ -6,9 +6,8 @@ Each project is self-contained in its own directory.
 
 ## Projects
 
-|   |   |   |
-|---|---|---|
 |**Project**|**Description**|**Key Concepts Demonstrated**|
+|---|---|---|
 |📂 [**Hundred Game**](https://www.google.com/search?q=./hundred_game/ "null")|A two-player CLI game to reach the sum of 100 first.|Functions, Loops, Conditionals, User Input|
 |📂 [**Strong Password Generator**](https://www.google.com/search?q=./strong_password/ "null")|A utility to generate a secure, random password of a given length.|`random` & `string` modules, Input Validation|
 |📂 [**Factors Calculator**](https://www.google.com/search?q=./factors_calculator/ "null")|A simple tool that calculates all the factors for any given integer.|List Comprehensions, Math Logic|
