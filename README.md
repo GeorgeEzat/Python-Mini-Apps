@@ -8,9 +8,9 @@ Each project is self-contained in its own directory.
 
 |**Project**|**Description**|**Key Concepts Demonstrated**|
 |---|---|---|
-|📂 [**Hundred Game**](https://www.google.com/search?q=./hundred_game/ "null")|A two-player CLI game to reach the sum of 100 first.|Functions, Loops, Conditionals, User Input|
-|📂 [**Strong Password Generator**](https://www.google.com/search?q=./strong_password/ "null")|A utility to generate a secure, random password of a given length.|`random` & `string` modules, Input Validation|
-|📂 [**Factors Calculator**](https://www.google.com/search?q=./factors_calculator/ "null")|A simple tool that calculates all the factors for any given integer.|List Comprehensions, Math Logic|
+|📂 [**Hundred Game**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Hundred%20Game "null")|A two-player CLI game to reach the sum of 100 first.|Functions, Loops, Conditionals, User Input|
+|📂 [**Strong Password Generator**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Strong%20Password%20Generator "null")|A utility to generate a secure, random password of a given length.|`random` & `string` modules, Input Validation|
+|📂 [**Factors Calculator**](https://github.com/GeorgeEzat/Python-Mini-Apps/tree/main/Factors%20Calculator "null")|A simple tool that calculates all the factors for any given integer.|List Comprehensions, Math Logic|
 
 ## Setup & Installation
 
