@@ -18,8 +18,8 @@ To run these projects, it's recommended to first create a virtual environment.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/YourUsername/YourRepoName.git
-    cd YourRepoName
+    git clone https://github.com/GeorgeEzat/Python-Mini-Apps.git
+    cd Python-Mini-Apps
     ```
 2. **(Recommended) Create and activate a virtual environment:**
     ```sh
